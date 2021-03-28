@@ -3,7 +3,7 @@ title: "shapelessと代数的データ型"
 emoji: "📘"
 type: "tech"
 topics: [scala, shalepess, AlgebraticDataType]
-published: false
+published: true
 ---
 
 # はじめに
